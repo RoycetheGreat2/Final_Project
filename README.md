@@ -1,3 +1,4 @@
+#THIS MAY NOT RUN IN GITHUB BECAUSE OF COMPLICATIONS WITH SQL AND JAVA CONNECTIVITY
 # Library Management System
 
 This project is a simple Library Management System built using Java and MySQL. The application allows users to perform basic CRUD (Create, Read, Update, Delete) operations on a library database, which stores book information. The program interacts with a MySQL database to manage a collection of books and allows the user to:
